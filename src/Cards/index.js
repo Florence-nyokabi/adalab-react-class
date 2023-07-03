@@ -19,4 +19,5 @@ const Cards = ()=>{
         </div>
     );
 };
+
 export default Cards;
