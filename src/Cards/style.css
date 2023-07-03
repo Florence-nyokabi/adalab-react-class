@@ -1,0 +1,14 @@
+.my-fruits{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+}
+img{
+    width: 30%;
+    /* height: 30%; */
+}
+.fruit-div{
+    /* border: solid 1px; */
+    /* border-radius: 12px; */
+    /* padding: 10px 12px; */
+}
